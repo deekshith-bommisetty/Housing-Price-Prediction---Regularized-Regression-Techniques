@@ -1,4 +1,4 @@
-# Housing Price Prediction - Regularized Regression Techniques
+# Ames Housing Prices Prediction - Regularized Regression Techniques
 
 ## Objective </br>
 The goal of this project was to use EDA, visualization, data cleaning, preprocessing, and prediction modelling to predict home prices given the features of the home, and interpret your models to find out what features add value to a home. The data was originally taken from Kaggle, this dataset is a part of the Housing prices : Advanced Regression Techniques Challenge
